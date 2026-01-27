@@ -2,7 +2,7 @@
 
 ## Photo of my spirit animal
 [spirit_animal.jpg]
-![Himalayan Ibex](./resume/spirit_animal.jpg)
+![Himalayan Ibex](./spirit_animal.jpg)
 
 ### Education
 1. [Columbia University, New York: MS in Climate - August 2025 - May 2027](https://www.columbia.edu/)
