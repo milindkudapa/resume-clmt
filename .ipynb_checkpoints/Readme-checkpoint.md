@@ -1,7 +1,6 @@
 # Milind Kudapa
 
 ## Photo of my spirit animal
-[spirit_animal.jpg]
 ![Himalayan Ibex](./spirit_animal.jpg)
 
 ### Education
